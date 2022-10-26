@@ -1,6 +1,6 @@
-#!/usr/bin/python
+#!/usr/local/autopkg/python
 
-#!/usr/bin/env python
+#!/usr/local/autopkg/python
 
 from __future__ import absolute_import
 
